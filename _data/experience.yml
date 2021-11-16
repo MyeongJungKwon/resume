@@ -2,19 +2,32 @@
 # VP of Global Communications
 - company: 미래에셋생명
   position: IT개발팀/선임매니저
-  duration: 2009.01 &mdash; Present
+  duration: 2009.01 &mdash; 현재
   summary: 보험기간계-신계약, 영업지원시스템, 차세대(PI, EA)
   #<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: SK C&C
+  position: 금융사업팀/대리
+  duration: 2008.01 &mdash; 2008.12
+  summary: 대신증권차세대-주문파트 개발
+  #summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: 인피언컨설팅
+  position: 개발팀/대리
+  duration:   2005.04  &mdash; 2007.10
+  summary: 삼성생명 홈페이지/사이버창구 개발, 프로젝트 및 운영
+  
+  # Communications Coordinator
+- company: 이커머스테크
+  position: 개발팀/사원
+  duration:   2003.02  &mdash; 2004.03
+  summary: 포스코건설 eProcurement 개발 및 운영
+
+# Communications Coordinator
+- company: 유진데이타
+  position: 기술연구소/사원
+  duration:   2002.02  &mdash; 2002.12
+  summary: XML전자문서 솔루션 개발, 서버side
+
