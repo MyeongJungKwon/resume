@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: 다양한 경험
+  description: 차세대를 비롯한 다양한 프로젝트 수행 경험.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: 안정적인 시스템 운영
+  description: 금융분야에서 오랜 기간 시스템 운영. 업무협의/조정 능력 탁월
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: 노련한 위기 대처
+  description: 장애시 빠른 Trouble Shooting 및 정확한 상황 판단
+  
+  # Digital content development and creation
+- skill: 풍부한 IT기술
+  description: JAVA, ProFrame, MDD, Spring, Springboot, EAI, SOAP, RestFul, JSON, Oracle, myBatis, ORM, JPA, miplatform, TERA, Datastage
