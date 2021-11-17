@@ -2,15 +2,33 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: 미래에셋생명/PCA 통합프로젝트
+  role: 영업지원시스템 데이터 Mig 수행
+  duration: 2017.05 &mdash; 2018.03
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 회사 합병에 따른 영업지원 데이터 통합 수행
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: PCA생명 차세대 프로젝트
+  role: 영업지원파트 Project Leader
+  duration: 2015.02 &mdash; 2016.05
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 영업지원시스템 분석, 설계 및 개발 리딩
+
+- project: PCA생명 PI, EA 프로젝트
+  role: 아키텍트, Technical Leader
+  duration: 2012.02 &mdash; 2012.10
+  # url: "#"
+  description: 차세대를 위한 프로세스 개선, 개발표쥰 및 아키텍쳐 프로젝트
+
+- project: PCA생명 이미지 워크 플로 프로젝트
+  role: 기간계 인터페이스 연계 개발 및 coordinator
+  duration: 2009.01 &mdash; 2009.10
+  # url: "#"
+  description: 이미지 시스템 구축. 인도 솔루션 기간계 연계
+  
+# Springfield Community Outreach Group
+- project: 대신증권 차세대 프로젝트
+  role: 개발자
+  duration: 2008.05 &mdash; 2008.12
+  # url: "#"
+  description: 주문 서비스 및 수도거래(3일매매) 배치 서비스 개발
