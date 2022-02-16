@@ -2,6 +2,18 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
+- project: 미래에셋생명 신계약 챗봇 프로젝트
+  role: Project Leader
+  duration: 2021.09 &mdash; 2022.01
+  # url: "#"
+  description: 기간계 신계약 심사 상세사항 알림톡 제공, 보완처리 및 기간계 I/F 연계
+  
+- project: 미래에셋생명 모바일약관 구축 프로젝트
+  role: Project Leader
+  duration: 2018.04 &mdash; 2018.08
+  # url: "#"
+  description: 전자청약시 약관을 모바일 서비스로 제공  
+
 - project: 미래에셋생명/PCA 통합프로젝트
   role: 영업지원시스템 데이터 Mig 수행
   duration: 2017.05 &mdash; 2018.03
